@@ -1,128 +1,128 @@
 ## Java
 
 - Basics
-  - types
-  - primitives types
-  - references types
-  - arithmetic operations
-  - import / import static
-  - if else
-  - switch
-  - for/for each
-  - while/do while
-  - String/StringBuilder/StringBuffer
-  - varargs
-  - arrays
-  - Wrapper classes
+  - types: 🖐️ used
+  - primitives types: 🖐️ used
+  - references types: 🖐️ used
+  - arithmetic operations: 🖐️ used
+  - import / import static: 🖐️ used
+  - if else: 🖐️ used
+  - switch: 🖐️ used
+  - for/for each: 🖐️ used
+  - while/do while: 🖐️ used
+  - String/StringBuilder/StringBuffer: 🖐️ used
+  - varargs: 🖐️ used
+  - arrays: 🖐️ used
+  - Wrapper classes: 🖐️ used
 - OOP
-  - class
-  - object
-  - constructor
-  - overloading
-  - this
-  - import / import static
-  - package
-  - access modifiers
-  - non-access modifiers (final, static)
-  - encapsulation
-  - inheritance
-  - polymorphism
-  - overriding
-  - abstract class
-  - interface
-  - enum
+  - class: 🖐️ used
+  - object: 🖐️ used
+  - constructor: 🖐️ used
+  - overloading: 🖐️ used
+  - this: 🖐️ used
+  - import / import static: 🖐️ used
+  - package: 🖐️ used
+  - access modifiers: 🖐️ used
+  - non-access modifiers (final, static): 🖐️ used
+  - encapsulation: 🖐️ used
+  - inheritance: 🖐️ used
+  - polymorphism: 🖐️ used
+  - overriding: 🖐️ used
+  - abstract class: 🖐️ used
+  - interface: 🖐️ used
+  - enum: 🖐️ used
 - Collections 
-  - Interface List
-  - ArrayList
-  - LinkedList
-  - Iterator/ListIterator
-  - Vector/Stack
-  - Interface Set
-  - HashSet
-  - LinkedHashSet
-  - TreeSet
-  - Interface Queue
-  - Deque
-  - ArrayDeque
-  - Interface Map
-  - HashMap
-  - LinkedHashMap
-  - TreeMap
+  - Interface List: 🖐️ used
+  - ArrayList: 🖐️ used
+  - LinkedList: 🖐️ used
+  - Iterator/ListIterator: 🖐️ used
+  - Vector/Stack: 🎓 known
+  - Interface Set: 🖐️ used
+  - HashSet: 🖐️ used
+  - LinkedHashSet: 🖐️ used
+  - TreeSet: 🖐️ used
+  - Interface Queue: 🖐️ used
+  - Deque: 🖐️ used
+  - ArrayDeque: 🖐️ used
+  - Interface Map: 🖐️ used
+  - HashMap: 🖐️ used
+  - LinkedHashMap: 🖐️ used
+  - TreeMap: 🖐️ used
 - Multithreading 
-	- Thread
-	- Runnable
-	- Thread states 
-	- Thread priority
-	- Thread.sleep()&Thread.join()
-	- Modifier volatile
-	- Data race
-	- Modifier synchronized & synchronized blocks
-	- Monitors
-	- wait()&notify()&notifyAll()
-	- Deadlock
-	- Livelock
-	- Lock Starvation
-	- Daemon threads
-	- Interrupting
-	- Thread pool
-	- Executor service
-	- Schedule executor service
-	- Callabe&Future
-	- Lock&ReentrantLock 
-	- Semaphore
-	- CountDownLatch
-	- Exchanger
-	- CyclicBarrier
-	- Atomics
-	- Concurrent collections
+	- Thread : 🖐️ used
+	- Runnable: 🖐️ used
+	- Thread states: 🎓 known 
+	- Thread priority: 🎓 known
+	- Thread.sleep()&Thread.join(): 🖐️ used
+	- Modifier volatile: 🖐️ used
+	- Data race: 🎓 known
+	- Modifier synchronized & synchronized blocks: 🖐️ used
+	- Monitors: 🖐️ used
+	- wait()&notify()&notifyAll(): 🎓 known
+	- Deadlock: 🎓 known
+	- Livelock: 🎓 known
+	- Lock Starvation: 🎓 known
+	- Daemon threads: 🎓 known
+	- Interrupting: 🎓 known
+	- Thread pool: 🎓 known
+	- Executor service: 🖐️ used
+	- Schedule executor service: 🖐️ used
+	- Callabe&Future: 🖐️ used
+	- Lock&ReentrantLock: 🖐️ used
+	- Semaphore: 🖐️ used
+	- CountDownLatch: 🖐️ used
+	- Exchanger: 🖐️ used
+	- CyclicBarrier: 🖐️ used
+	- Atomics: 🖐️ used
+	- Concurrent collections: 🖐️ used
 - Othrers 
-  - Exceptions&Errors
-  - Comparable&Comparator
-  - Generics
-  - Type erasure
-  - Subtyping
-  - Wildcards
-  - Static nested class
-  - Inner class
-  - Local inner class
-  - Anonymous class
-  - Lambda Expression
-  - Functional Interface
-  - Stream API
-  - Class Optional
-  - File I/O
-  - Serialization
-  - Modifier transient
-  - RegEx
-  - Reflection API
-  - SOLID principles
+  - Exceptions&Errors: 🖐️ used
+  - Comparable&Comparator: 🖐️ used
+  - Generics: 🖐️ used
+  - Type erasure: 🎓 known
+  - Subtyping: 🎓 known
+  - Wildcards: 🎓 known 
+  - Static nested class🖐️ used
+  - Inner class: 🎓 known
+  - Local inner class: 🎓 known
+  - Anonymous class: 🎓 known
+  - Lambda Expression: 🖐️ used
+  - Functional Interface: 🖐️ used
+  - Stream API: 🖐️ used
+  - Class Optional: 🖐️ used
+  - File I/O: 🖐️ used
+  - Serialization: 🖐️ used
+  - Modifier transient: 🖐️ used
+  - RegEx: 🖐️ used
+  - Reflection API: 🖐️ used
+  - SOLID principles: 🎓 known
 
 ## SQL (PosrgreSQL)
 
 - SQL
-  - DDL operations
-  - INSERT
-  - Constraints
-  - SELECT
-  - ORDER BY, LIMIT, OFFSET
-  - WHERE
-  - Aggregation functions 
-  - DELETE
-  - UPDATE
-  - UNION (ALL), INTERSECT, EXCEPT
-  - 1-3 normal forms
-  - INNER & CROSS JOIN
-  - OUTER JOINs
-  - GROUP BY & HAVING
-  - Window functions
-  - B-Tree indexes
-  - Seq scan
-  - Index only scan 
-  - Index scan 
-  - Bitmap(OR/AND) scan
-  - Nested loop
-  - Hash join
-  - Merge join
-  - Transactions
-  - Trancsation isolation issues
-  - Triggers
+  - DDL operations: 🖐️ used
+  - INSERT: 🖐️ used
+  - Constraints: 🖐️ used
+  - SELECT: 🖐️ used
+  - ORDER BY, LIMIT, OFFSET: 🖐️ used
+  - WHERE: 🖐️ used
+  - Aggregation functions: 🖐️ used
+  - DELETE: 🖐️ used
+  - UPDATE: 🖐️ used
+  - UNION (ALL), INTERSECT, EXCEPT: 🎓 known
+  - 1-3 normal forms: 🎓 known
+  - INNER & CROSS JOIN: 🖐️ used
+  - OUTER JOINs: 🖐️ used
+  - GROUP BY & HAVING: 🖐️ used
+  - Window functions: 🖐️ used
+  - B-Tree indexes: 🖐️ used
+  - Seq scan: 🎓 known
+  - Index only scan: 🎓 known 
+  - Index scan: 🎓 known
+  - Bitmap(OR/AND) scan: 🎓 known
+  - Nested loop: 🎓 known
+  - Hash join: 🎓 known
+  - Merge join: 🎓 known
+  - Transactions: 🖐️ used
+  - Trancsation isolation issues: 🎓 known
+  - Triggers: 🎓 known
