@@ -1,0 +1,128 @@
+## Java
+
+- Basics
+  - types
+  - primitives types
+  - references types
+  - arithmetic operations
+  - import / import static
+  - if else
+  - switch
+  - for/for each
+  - while/do while
+  - String/StringBuilder/StringBuffer
+  - varargs
+  - arrays
+  - Wrapper classes
+- OOP
+  - class
+  - object
+  - constructor
+  - overloading
+  - this
+  - import / import static
+  - package
+  - access modifiers
+  - non-access modifiers (final, static)
+  - encapsulation
+  - inheritance
+  - polymorphism
+  - overriding
+  - abstract class
+  - interface
+  - enum
+- Collections 
+  - Interface List
+  - ArrayList
+  - LinkedList
+  - Iterator/ListIterator
+  - Vector/Stack
+  - Interface Set
+  - HashSet
+  - LinkedHashSet
+  - TreeSet
+  - Interface Queue
+  - Deque
+  - ArrayDeque
+  - Interface Map
+  - HashMap
+  - LinkedHashMap
+  - TreeMap
+- Multithreading 
+	- Thread
+	- Runnable
+	- Thread states 
+	- Thread priority
+	- Thread.sleep()&Thread.join()
+	- Modifier volatile
+	- Data race
+	- Modifier synchronized & synchronized blocks
+	- Monitors
+	- wait()&notify()&notifyAll()
+	- Deadlock
+	- Livelock
+	- Lock Starvation
+	- Daemon threads
+	- Interrupting
+	- Thread pool
+	- Executor service
+	- Schedule executor service
+	- Callabe&Future
+	- Lock&ReentrantLock 
+	- Semaphore
+	- CountDownLatch
+	- Exchanger
+	- CyclicBarrier
+	- Atomics
+	- Concurrent collections
+- Othrers 
+  - Exceptions&Errors
+  - Comparable&Comparator
+  - Generics
+  - Type erasure
+  - Subtyping
+  - Wildcards
+  - Static nested class
+  - Inner class
+  - Local inner class
+  - Anonymous class
+  - Lambda Expression
+  - Functional Interface
+  - Stream API
+  - Class Optional
+  - File I/O
+  - Serialization
+  - Modifier transient
+  - RegEx
+  - Reflection API
+  - SOLID principles
+
+## SQL (PosrgreSQL)
+
+- SQL
+  - DDL operations
+  - INSERT
+  - Constraints
+  - SELECT
+  - ORDER BY, LIMIT, OFFSET
+  - WHERE
+  - Aggregation functions 
+  - DELETE
+  - UPDATE
+  - UNION (ALL), INTERSECT, EXCEPT
+  - 1-3 normal forms
+  - INNER & CROSS JOIN
+  - OUTER JOINs
+  - GROUP BY & HAVING
+  - Window functions
+  - B-Tree indexes
+  - Seq scan
+  - Index only scan 
+  - Index scan 
+  - Bitmap(OR/AND) scan
+  - Nested loop
+  - Hash join
+  - Merge join
+  - Transactions
+  - Trancsation isolation issues
+  - Triggers
