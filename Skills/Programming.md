@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🎓 known
+  - identifier: 👂 heard
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 🎓 known
+  - literal: 👂 heard
+  - expression: 👂 heard
   - heap
-  - function
-  - procedure
+  - function: 🎓 known
+  - procedure 
   - method
   - class
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
+  - type:🎓 known
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
+  - code block 
+  - conditions: 🎓 known
+  - loops: 🎓 known
   - assignment
   - regular expression
   - interface
@@ -53,7 +53,7 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 🎓 known
   - structure
   - record
   - enum

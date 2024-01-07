@@ -1,22 +1,22 @@
 ## Java
 
 - Basics
-  - types
-  - primitives types
-  - references types
-  - arithmetic operations
+  - types: 🎓 known
+  - primitives types: 🎓 known
+  - references types: 🎓 known
+  - arithmetic operations: 🎓 known
   - import / import static
-  - if else
-  - switch
-  - for/for each
-  - while/do while
-  - String/StringBuilder/StringBuffer
+  - if else: 🎓 known
+  - switch: 🎓 known
+  - for/for each: 🎓 known
+  - while/do while: 🎓 known
+  - String/StringBuilder/StringBuffer: 🎓 known
   - varargs
-  - arrays
+  - arrays: 🎓 known
   - Wrapper classes
 - OOP
-  - class
-  - object
+  - class: 👂 heard
+  - object: 👂 heard
   - constructor
   - overloading
   - this
