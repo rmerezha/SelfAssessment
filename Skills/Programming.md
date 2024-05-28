@@ -13,7 +13,7 @@
   - procedure: 👂 heard
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype: 
+  - prototype: 🎓 known
   - event: 👂 heard
   - type: 🖐️ used
   - primitive types: 🖐️ used
@@ -48,7 +48,7 @@
   - memoize
   - wrapper: 🎓 known
   - functor
-  - monad
+  - monad:  🎓 known
   - monoid
   - generator
   - coroutine
@@ -89,7 +89,7 @@
   - antipatterns: 🎓 known
   - paradigm: 🎓 known
   - algorithm: 🎓 known
-  - magic numbers
+  - magic numbers:  🎓 known
   - hardcode: 🎓 known
   - complexity
   - decomposition: 🎓 known
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🎓 known
   - return early: 🖐️ used
-  - unittest: 👂 heard
+  - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used

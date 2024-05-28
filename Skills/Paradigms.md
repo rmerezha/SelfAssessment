@@ -21,45 +21,45 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
-  - Encapsulation 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
-  - Object form 🖐️ used
-  - instance 🖐️ used
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
   - Introspection
-  - Reflection 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton 🎓 known
-  - Factory Method 🎓 known
-  - Abstract Factory 🎓 known
-  - Adapter
-  - Observer
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🎓 known
+  - Adapter:  🎓 known
+  - Observer:  🎓 known
   - Strategy
-  - Facade
-  - Proxy
+  - Facade:  🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command:  🎓 known
+  - Iterator: 🖐️ used
   - State
-  - Bridge
-  - Builder 🎓 known
-  - Prototype
+  - Bridge:  🎓 known
+  - Builder: 🖐️ used
+  - Prototype:  🎓 known
   - Composite
-  - Decorator
-  - Flyweight
+  - Decorator: 🖐️ used
+  - Flyweight:  🎓 known
   - Mediator
   - Memento
   - Template Method
