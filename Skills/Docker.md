@@ -1,0 +1,33 @@
+## Docker 
+
+- Docker
+    - image & container: 🖐️ used
+    - layers: 🎓 known
+    - docker registry: 🎓 known
+    - container lifecycle: 🎓 known
+    - start & create commands: 🖐️ used
+    - run & restart commands: 🖐️ used
+    - stop & kill & rm commands: 🖐️ used
+    - pause & unpause commands: 🖐️ used
+    - exec command: 🖐️ used
+    - cp & diff commands: 🖐️ used
+- Storage & volumes
+    - bind mount type: 🎓 known
+    - tmpfs mount type: 🖐️ used
+    - volume mount type: 🖐️ used
+- Networking
+    - bridge driver: 🖐️ used
+    - none driver: 🎓 known
+    - host driver: 🖐️ used
+    - port forwarding: 🖐️ used
+- Dockerfile
+    - FROM & ARG: 🖐️ used
+    - ADD & COPY: 🖐️ used
+    - CMD & ENTRYPOINT: 🖐️ used
+    - EXPOSE: 🖐️ used
+    - Build context: 🖐️ used
+    - Build cache: 🖐️ used
+    - Multi-stage builds: 🖐️ used
+    - image tagging: 🖐️ used
+    - pull & push commands: 🖐️ used
+- Docker Compose (in progress...)
